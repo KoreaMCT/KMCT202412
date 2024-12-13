@@ -8,3 +8,12 @@
 - 클래스 온 보딩 기법 소개- 김도균님
 - 깃헙페이지로 블로그 만들기 - 최정우님
 
+### 참고 링크들
+- MCT CL 관련 게시물 - https://techcommunity.microsoft.com/blog/latestresources/get-support-from-your-mct-community-lead/3891316 
+- 북미 MCT Summit : https://namctsummit.com/ 
+- 유럽 MCT Summit : https://www.mctsummit.co.uk/ 
+- 일본 MCT Summit : https://www.mctsummit.jp/ 
+- 파키스탄 MCT Summit : https://mctsummitpakistan.com/ 
+- MCT 코스웨어 피드백 : https://aka.ms/mctcoursewarefeedback
+- 11월 프로그램 업데이트 : https://techcommunity.microsoft.com/discussions/mcts-asiaforum-board/%EC%9A%94%EC%95%BD%EB%B3%B8--mct-program-update-november-2024/4339241 
+- Azure Pass 관련 : https://techcommunity.Microsoft.com/discussions/learningpartnertraining/immediate-discontinuation-of-azure-passes/4355278
